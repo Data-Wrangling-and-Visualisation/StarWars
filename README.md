@@ -38,6 +38,13 @@ For the second checkpoint, our team:
 5. Deployed Project to: https://data-wrangling-visualization-project.onrender.com/
 6. Added Docker
 
+## Tools used:
+- **HTML + CSS + JavaScript** for Frontend
+- **Charts.js, D3.js, Plotly** for Visualizations
+- **Flask** for Backend
+- All parsed data are in JSONs
+- **Scrapy** for parsing
+  
 ## Repository structure:
 ### In the data_wrangling folder you can find files created before checkpoint 1:
 - In the *starwars* folder there is code for web scraping of the site. 
