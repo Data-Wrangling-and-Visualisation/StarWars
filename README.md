@@ -5,6 +5,8 @@ This project presents an analytical web platform that helps evaluate the quality
 
 The platform provides interactive visualizations and allows users with known parameters of a film to get data-driven insights into its quality. This tool can benefit viewers, investors, analysts, and studios looking for objective evaluations.
 
+Link to the deployed website: https://data-wrangling-visualization-project.onrender.com/ 
+
 ## Our key observations:
 •	Metascore and IMDb ratings are generally consistent, but viewers tend to avoid extreme ratings.
 
