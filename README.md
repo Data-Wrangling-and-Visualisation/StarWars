@@ -44,6 +44,7 @@ For the second checkpoint, our team:
 - **Flask** for Backend
 - **Scrapy** for parsing
 - All parsed data are in JSONs
+- **Python (MatPlotLib, Numpy, Seaborn, Pandas)** for EDA
 
 ## Repository structure:
 ### In the data_wrangling folder you can find files created before checkpoint 1:
